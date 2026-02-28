@@ -1,0 +1,3 @@
+Full database backups are performed daily.
+Backups are retained for 30 days.
+Disaster recovery replication is enabled across multiple availability zones.

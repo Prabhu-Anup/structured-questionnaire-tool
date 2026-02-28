@@ -1,0 +1,36 @@
+# ----------------------------
+# Virtual Environments
+# ----------------------------
+venv/
+backend/venv/
+
+# ----------------------------
+# Python Cache Files
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------------
+# Database Files
+# ----------------------------
+app.db
+backend/app.db
+*.sqlite3
+
+# ----------------------------
+# Generated / Temporary Files
+# ----------------------------
+generated_answers.docx
+
+# ----------------------------
+# OS / System Files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Environment Variables
+# ----------------------------
+.env

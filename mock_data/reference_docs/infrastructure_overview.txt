@@ -1,0 +1,3 @@
+Customer data is hosted on AWS cloud infrastructure in the Mumbai (ap-south-1) region.
+Production systems are accessible only through VPN and secure bastion hosts.
+System monitoring is implemented using AWS CloudWatch and Datadog

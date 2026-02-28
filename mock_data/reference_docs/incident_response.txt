@@ -1,0 +1,3 @@
+Security incidents are reported through an internal ticketing system.
+Critical incidents are escalated to the security team within 1 hour.
+Incident logs are maintained for audit purposes.

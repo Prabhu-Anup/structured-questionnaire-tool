@@ -1,0 +1,4 @@
+All customer data is encrypted at rest using AES-256 encryption.
+Data in transit is secured using TLS 1.2 and TLS 1.3 protocols.
+Multi-factor authentication (MFA) is mandatory for all production accounts.
+Access to production systems is controlled using role-based access control (RBAC).

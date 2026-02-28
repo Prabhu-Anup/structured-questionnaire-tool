@@ -1,0 +1,10 @@
+1. How is customer data encrypted at rest?
+2. How is data encrypted in transit?
+3. Where is customer data stored?
+4. Is multi-factor authentication enforced?
+5. How is production access controlled?
+6. Does the company undergo third-party security audits?
+7. What is the backup retention policy?
+8. How are security incidents reported?
+9. What monitoring tools are used?
+10. Describe the disaster recovery strategy.
