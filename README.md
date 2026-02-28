@@ -129,17 +129,6 @@ Each generation run provides:
 - Retrieval is keyword-based for demonstration purposes
 - Each user operates independently with their own data
 
-
-## Trade-offs
-
-- Keyword-based retrieval is used instead of embedding-based semantic search
-- SQLite is used instead of a production-grade database
-- No dedicated frontend interface; Swagger UI serves as the interaction layer
-- Document chunking is not implemented
-- Answers are based on document-level matches rather than granular snippet ranking
-
-
-
 ## Project Structure
 
 structured-qa-tool/
@@ -190,15 +179,3 @@ README.md
    http://127.0.0.1:8000/docs
 
 
-## Assignment Coverage
-
-This implementation satisfies the assignment requirements:
-
-- User authentication
-- Persistent database storage
-- Clear workflow from upload to export
-- AI-based retrieval and grounded answer generation
-- Explicit citations attached to answers
-- Handling of unsupported questions
-- Structured export preserving original format
-- Implementation of two additional features: confidence scoring and coverage summary
