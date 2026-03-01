@@ -178,4 +178,7 @@ README.md
 6. Open in browser:
    http://127.0.0.1:8000/docs
 
+## DEMO LINK:
+https://structured-questionnaire-tool.onrender.com/docs
+
 
